@@ -33,8 +33,8 @@ baseline-checker-extension/ ├── manifest.json         # Extension manifest
 
 ## 📹 Demo Video
 
-👉 A full demo video will be uploaded soon on **YouTube**.  
-📌 *[Placeholder for YouTube link — will update later]*
+👉 A full demo vedio... link is available below 
+https://youtu.be/g75YgRzFNwA?si=jLNW_atdV_xcvbOc
 
 ---
 
